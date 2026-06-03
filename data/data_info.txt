@@ -1,4 +1,4 @@
-Information on datasets included
+Information on datasets included (where readme is not present)
 
 climate-change.csv includes: 
 CO2 (ppm), CH4 (ppb) and N2O (ppb) concentrations
