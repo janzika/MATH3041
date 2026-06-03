@@ -1,0 +1,30 @@
+{
+  "chart": {
+    "title": "Oil palm production",
+    "subtitle": "Oil palm production is measured in tonnes.",
+    "citation": "Food and Agriculture Organization of the United Nations (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/palm-oil-production?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Palm oil | 00000257 || Production | 005510 || tonnes": {
+      "titleShort": "Palm oil production",
+      "titleLong": "Palm oil production - UN FAO",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "1961-2023",
+      "type": "Numeric",
+      "owidVariableId": 1199041,
+      "shortName": "palm_oil__00000257__production__005510__tonnes",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Palm oil production – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1199041.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-06-03",
+  "activeFilters": {}
+}
