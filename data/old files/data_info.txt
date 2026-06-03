@@ -1,0 +1,69 @@
+Information on datasets included (where readme is not present)
+
+climate-change.csv includes: 
+CO2 (ppm), CH4 (ppb) and N2O (ppb) concentrations
+sea surface temperature (celcius)
+snow cover (million km^2)
+
+Sea ice extent (million km^2)
+feb : F
+sep : G
+
+heat content top 700m (10e22 Joules)
+dataset		Row
+- CSIRO		I
+- NOAA		L
+- MRIJMA	K
+- IAP		J
+
+
+heat content top 2000m (10e22 Joules)
+dataset		Row 
+- MRIJMA	S
+- NOAA		R
+- IAP		Q
+
+----
+climate-change_2.csv includes:
+
+Global CO2 concentrations (ppm) from 1972-2023:
+Averaged	Row
+-Monthly	S
+-Annual		T
+
+global temp anomaly (ceclius) - Row L
+
+ocean pH levels:
+Averaged	Row
+-Monthly 	J
+-Annual		K
+
+artic sea ice
+
+sea level rise (mm):
+for global sea level rise the 3 mnthly mean is used
+dataset			Row
+- avg			O
+- church and white	M
+- uni hawaii		N
+			
+			
+url for data above: https://ourworldindata.org/explorers/climate-change
+
+----
+temperature-anomaly.csv
+- Global average temperature anomaly relative to 1961-1990
+
+----
+annual-co-emissions-by-region.csv
+- annual CO2 emmsions (billion tonnes) for each country from 1750 to 2021
+
+url for data above: https://ourworldindata.org/co2-and-greenhouse-gas-emissions#which-countries-have-set-net-zero-emissions-targets
+
+
+----
+gdp-per-capita-maddison-2020.csv
+- includes yearly averages of GDP (per capitia) for each country from 1820 to 2018
+
+url for data above: https://ourworldindata.org/economic-growth
+
